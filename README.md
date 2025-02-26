@@ -15,8 +15,8 @@ URL: https://demoqa.com
 4. Navigate to Book Store Application
    Validate response of the API's with the data of bookstore page
 
-#pre-requisites:
-python
-pytest
-selenium
+#pre-requisites: install below packages to run script without package dependancies
+python,
+pytest,
+selenium,
 
