@@ -15,8 +15,16 @@ URL: https://demoqa.com
 4. Navigate to Book Store Application
    Validate response of the API's with the data of bookstore page
 
+#design pattern
+Page object model - POM
+
 #pre-requisites: install below packages to run script without package dependancies
 python,
 pytest,
 selenium,
+
+#execute tests using below command line arguments
+pytest tests/test_demoqa.py
+
+
 
